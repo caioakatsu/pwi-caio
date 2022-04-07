@@ -1,0 +1,39 @@
+h1 {
+    color: #98ff98;
+    display: block; 
+    margin-left: 47%;
+}
+
+.paragrafo {
+   width: 200px;
+    color: #5fd9db; 
+    background-color: #3f6b6b; 
+    border-left: 10px; 
+    border: 4px solid #000000;
+    margin: auto;
+}
+
+.walter-white-gremio {
+    width: 450px;
+    border-radius: 10px;
+    display: block; 
+    margin: 1em auto;
+}
+
+.pedro {
+width: 200px;
+border: 1px solid #000000;
+margin-left: auto;
+margin-right: auto;
+}
+
+.lista {
+    display: block; 
+    margin-left: 45%;
+}
+
+.lista_ordenada {
+    display: block; 
+    margin-left: 45%;
+}
+
