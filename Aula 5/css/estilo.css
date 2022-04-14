@@ -1,0 +1,54 @@
+.youtube {
+    width: 165px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid #f360c2c7;
+}
+
+.centralizar {
+    text-align: center;
+}
+
+.lista {
+    color: #c90404;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+
+
+a:link {
+    color: #9900ff;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+  
+  
+  a:visited {
+    color: #0036e9;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+  
+  
+  a:hover {
+    color: #07d311;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+  
+  
+  a:active {
+    color: #e7e40f;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+  
+body {
+  background-color: #ffe1f5c7;
+}
