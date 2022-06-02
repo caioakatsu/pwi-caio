@@ -23,4 +23,26 @@ h1 {
     display: flex;
     justify-content: space-around;
     background-color: dodgerblue;
+    animation: mylastmove 5s infinite;
 }
+
+.space-around > div {
+  
+  height: 100px;
+  background: dodgerblue;
+  position:relative;
+  animation: mymove 5s infinite;
+}
+
+
+
+@keyframes mymove {
+  from {left: 0px;}
+  to {left: 30px;}
+}
+
+@keyframes mylastmove {
+  from {background-color: dodgerblue;}
+  to {background-color: #f1f1f1;}
+}
+
